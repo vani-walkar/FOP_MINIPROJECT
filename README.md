@@ -5,8 +5,13 @@ Pathfinder: Interactive Pathfinding VisualizerPathfinder is an interactive deskt
 
 
 🚀 FeaturesReal-Time A Visualization:* Watch the algorithm explore the grid, manage open/closed lists, and construct the optimal path with smooth animations.
+
 *Recursive Maze Generation*: Instantly generate "perfect" mazes (randomized, no loops, exactly one solution) using a recursive backtracking algorithm.Interactive Grid 
-*Editing*: Click and drag to place walls, move start (green) and end (red) nodes, or clear the grid to test custom scenarios.Optimized 
+
+
+*Editing*: Click and drag to place walls, move start (green) and end (red) nodes, or clear the grid to test custom 
+scenarios.Optimized 
+
 *Logic*: Guarantees the shortest path using Euclidean distance heuristics.
 
 
