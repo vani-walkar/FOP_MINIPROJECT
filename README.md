@@ -29,9 +29,13 @@ The estimated distance from the current node to the target using Euclidean dista
 
 👥 Team Members
 Sharvani Walawalkar (1262251167)
+
 Rashi Malpani (1262252822)
+
 Akshara Dubey (1262253416) 
+
 Devesh Patil (1262251847)
+
 Neer Agrawal (1262252059) 
 
 
