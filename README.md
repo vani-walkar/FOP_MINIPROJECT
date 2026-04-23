@@ -1,5 +1,5 @@
     ~PATH-FINDER
-USING DIKSHATRAS ALGORITHM
+USING ASTAR ALGORITHM
 
 Pathfinder: Interactive Pathfinding VisualizerPathfinder is an interactive desktop application built in C that visualizes the A pathfinding algorithm* in real-time. Developed as a Foundation of Programming mini-project, it serves as an educational tool to help students understand the dynamic, step-by-step nature of algorithm execution through hands-on exploration.
 
